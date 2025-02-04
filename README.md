@@ -1,3 +1,3 @@
 ###
-🚀 Road Object Detection using YOLOv8 & Roboflow – Created using Colab
+🚀 Road Object Detection using YOLOv11 & Roboflow – Created using Colab
 ###
